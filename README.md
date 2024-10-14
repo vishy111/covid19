@@ -1,4 +1,4 @@
-# covid19 Data analysis
+# Covid19 vs World Happiness Data analysis
 
 Analayzed two different datasets. 
 -covid dataset(John hopkins university)
